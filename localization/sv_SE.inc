@@ -10,7 +10,7 @@ $labels['two_step_verification_form'] = 'Tvåstegsverifieringskod:';
 $labels['secret'] = 'Hemlig nyckel';
 $labels['qr_code'] = 'QR-kod';
 
-$labels['msg_infor'] = 'Du kan scanna QR-koden innehållande din hemliga nyckel med en TOTP kompatibel applikation, Typ <a href="https://github.com/google/google-authenticator" target="_blank">google-authenticator</a>';
+$labels['msg_infor'] = 'Du kan scanna QR-koden innehållande din hemliga nyckel med en TOTP kompatibel applikation, Typ <a href="https://github.com/google/google-authenticator" target="_blank">google-authenticator</a>. Obersvera att Tvåstegsverifiering endast sker mot webbmailen och inte mailservern.';
 
 $labels['show_secret'] = 'Visa hemlig nyckel';
 $labels['hide_secret'] = 'Dölj hemlig nyckel';
